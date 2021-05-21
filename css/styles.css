@@ -93,6 +93,7 @@ img {
 
 .social-list {
   display: flex;
+  justify-content: center;
 }
 
 .social-item:not(:last-child) {
